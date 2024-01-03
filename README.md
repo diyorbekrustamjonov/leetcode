@@ -10,7 +10,7 @@ This repository contains my solutions to the problems on [LeetCode](https://leet
 
 ## Solutions in 30 Days Challenge (December 2023) 
 
-Post: [December LeetCoding Challenge]([Post](https://leetcode.com/discuss/general-discussion/655704/June-LeetCoding-Challenge))
+Post: [December LeetCoding Challenge](https://leetcode.com/discuss/general-discussion/655704/June-LeetCoding-Challenge)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
