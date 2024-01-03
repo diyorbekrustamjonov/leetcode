@@ -4,7 +4,6 @@
 
 This repository contains my solutions to the problems on [LeetCode](https://leetcode.com/).
 
-> LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
 > LeetCode is the world's leading online programming learning platform to help millions of users enhance their skills, expand their knowledge and prepare for technical interviews.
 
