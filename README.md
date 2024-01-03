@@ -8,9 +8,9 @@ This repository contains my solutions to the problems on [LeetCode](https://leet
 
 > LeetCode is the world's leading online programming learning platform to help millions of users enhance their skills, expand their knowledge and prepare for technical interviews.
 
-## Solutions in 30 Days Challenge (December 2023) 
+## Solutions in 30 Days Challenge (JS/TS, 2023) 
 
-###### Challenge link: [December LeetCoding Challenge](https://leetcode.com/discuss/general-discussion/655704/June-LeetCoding-Challenge)
+###### Challenge link: [December LeetCoding Challenge](https://leetcode.com/discuss/study-guide/3458761/Open-to-Registration!-30-Days-of-LC-JavaScript-Challenge)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
