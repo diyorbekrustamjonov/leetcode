@@ -12,3 +12,8 @@ function createHelloWorld2() {
 		return staticText
 	}
 }
+
+// 3. Solution
+function createHelloWorld3() {
+	return () => 'Hello World'
+}
