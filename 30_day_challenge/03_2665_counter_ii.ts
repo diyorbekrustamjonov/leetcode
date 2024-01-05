@@ -16,7 +16,7 @@ function createCounter(init: number): Counter {
             return init;
         },
     }
-};
+}
 
 //2. Solution
 function createCounter2(init: number): Counter {
@@ -39,4 +39,4 @@ function createCounter2(init: number): Counter {
         decrement,
         reset
     }
-};
+}
