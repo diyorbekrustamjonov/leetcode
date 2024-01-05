@@ -13,6 +13,3 @@ function createCounter2(n: number): () => number {
         return n++
     }
 }
-
-// 3. Solution
-const createCounter3 = (n: number) => () => n++;
