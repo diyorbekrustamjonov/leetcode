@@ -17,3 +17,6 @@ function createHelloWorld2() {
 function createHelloWorld3() {
 	return () => 'Hello World'
 }
+
+// 4. Solution
+const createHelloWorld4 = () => () => "Hello World";
