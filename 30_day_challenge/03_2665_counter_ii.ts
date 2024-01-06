@@ -40,3 +40,13 @@ function createCounter2(init: number): Counter {
         reset
     }
 }
+
+// 3. Solution
+function createCounter3(init: number): Counter {
+    const n = init;
+    return {
+        increment: () => ++init,
+        decrement: () => --init,
+        reset: () => init = n
+    }
+}
