@@ -16,3 +16,4 @@ This repository contains my solutions to the problems on [LeetCode](https://leet
 |2667|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/)|[TypeScript](./30_day_challenge/01_2667_create_hello_world_function.ts)|Easy|
 |2620|[Counter](https://leetcode.com/problems/counter/)|[TypeScript](./30_day_challenge/02_2620_counter.ts)|Easy|
 |2665|[Counter II](https://leetcode.com/problems/counter-ii)|[TypeScript](./30_day_challenge/03_2665_counter_ii.ts)|Easy|
+|2635|[Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)|[TypeScript](./30_day_challenge/04_2635_apply_transform_over_each_element_in_array.ts)|Easy|
