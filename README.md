@@ -18,3 +18,4 @@ This repository contains my solutions to the problems on [LeetCode](https://leet
 |2665|[Counter II](https://leetcode.com/problems/counter-ii)|[TypeScript](./30_day_challenge/03_2665_counter_ii.ts)|Easy|
 |2635|[Apply Transform Over Each Element in Array](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)|[TypeScript](./30_day_challenge/04_2635_apply_transform_over_each_element_in_array.ts)|Easy|
 |2634|[Filter elements from Array](https://leetcode.com/problems/filter-elements-from-array) | [TypeScript](./30_day_challenge/05_2634_filter_elements_from_array.ts)|Easy|
+|2626|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [TypeScript](./30_day_challenge/06_2626_array_reduce_transformation.ts)|Easy|
