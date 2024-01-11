@@ -13,3 +13,14 @@ function reduce2(nums: number[], fn: Fn, init: number): number {
 
     return init;
 };
+
+// 3. Solution
+function reduce3(nums: number[], fn: Fn, init: number): number {
+    if(nums.length === 1) {
+        return fn(init, nums[0]);
+    } else if(nums.length !== 0){
+        return reduce(nums.slice(1), fn, fn(init, nums[0]));
+    }
+
+    return init;
+};
