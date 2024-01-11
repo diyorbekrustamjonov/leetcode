@@ -20,3 +20,5 @@ This repository contains my solutions to the problems on [LeetCode](https://leet
 |2634|[Filter elements from Array](https://leetcode.com/problems/filter-elements-from-array) | [TypeScript](./30_day_challenge/05_2634_filter_elements_from_array.ts)|Easy|
 |2626|[Array Reduce Transformation](https://leetcode.com/problems/array-reduce-transformation) | [TypeScript](./30_day_challenge/06_2626_array_reduce_transformation.ts)|Easy|
 |2629|[Function Composition](https://leetcode.com/problems/function-composition)|[TypeScript](./30_day_challenge/07_2629_function_composition.ts)|Easy|
+|2703|[Return Length of Arguments Passed](https://leetcode.com/problems/return-length-of-arguments-passed)|[TypeScript](./30_day_challenge/08_2703_return_length_of_arguments_passed.ts)|Easy|
+
